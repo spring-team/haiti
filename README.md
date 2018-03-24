@@ -93,3 +93,4 @@ mvn spring-boot:run
 ```
 
 Test by visiting `http://localhost:8080/movies`
+I believe in you. You can do the thing!
